@@ -1,0 +1,3 @@
+It helps in solving bigger problems.
+you can convert recursion solution into iteration(loops) and vice versa.
+Space complexity is not constant because of recursive calls.
